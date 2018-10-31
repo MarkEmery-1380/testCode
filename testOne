@@ -1,7 +1,0 @@
-#Storage Space Python Program
-
-import os
-
-test = os.system('df -h /lustre/scratch119/casm/team78/')
-
-print test
